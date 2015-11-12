@@ -7,7 +7,10 @@ Group Members and Responsbilities:
 
 Our group is composed of Chen, Andy, Trent, and Dan.
 
-Communications (e-mail, Google Docs, logistics): Trent started an email chain to start the project, and Andy made a Google Doc to share our code (https://docs.google.com/document/d/1DV1LJrkT2HNy00Sbkd6_RTKEPw-n-Jv0RnIuoJyfZNk/edit?usp=sharing). We generally met and worked collaboratively, but also communicated via email and the Google Doc at other times.
+Communications (e-mail, Google Docs, logistics): Trent started an email chain to start the project, and Andy made a Google Doc to share our code (https://docs.google.com/document/d/1DV1LJrkT2HNy00Sbkd6_RTKEPw-n-Jv0RnIuoJyfZNk/edit?usp=sharing). 
+We generally met and worked collaboratively, but also communicated via email and the Google Doc at other times. Chen logged our activity by taking photos throughout, which can be found via this Dropbox link: https://www.dropbox.com/sh/1h4wkl8uizs72l0/AADZwm7eYX3SvB_3ODDXE0Hba?oref=e&n=41106693
+Trent also has video of the entirety of our scrolling code if required.
+
 
 Story planning (story boarding, writing): Everyone
 
